@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ecommerce</string>
+    <string name="app_name">EcommerceSample</string>
     <string name="ecommerce_nconcept">Ecommerce \nConcept</string>
     <string name="explorer">Explorer</string>
     <string name="sale">Sale</string>
@@ -17,4 +17,9 @@
     <string name="_1_500">$1,500</string>
     <string name="samsung_note_20_ultra">Samsung Note 20 Ultra</string>
     <string name="_1_047">$1,047</string>
+    <string name="filter_options">Filter Options</string>
+    <string name="done">Done</string>
+    <string name="brand">Brand</string>
+    <string name="size">Size</string>
+    <string name="price">Price</string>
 </resources>
